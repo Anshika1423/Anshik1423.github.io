@@ -1,0 +1,13 @@
+This website is a photography website of a photographer. It comprises of eight photo sections which are the part of the gallary with the contact details, home page and the services which the photographer can provide.
+The pages are-
+1.index(home page)
+2.about(the introduction of the photographer along with the sevices he can provide.)
+3.contact
+4.Flowers and leaves( part of the gallery.)
+5.River and its Beauty( part of the gallery.)
+6.Mountains( part of the gallery.)
+7.Buildings( part of the gallery.)
+8.People( part of the gallery.)
+9.Sky( part of the gallery.)
+10.Miles to Walk( part of the gallery.)
+11.Boats( part of the gallery.)
